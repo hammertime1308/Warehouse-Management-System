@@ -40,3 +40,27 @@ Database name = `warehouse`
 
 
 ![Main Page](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/mainPage.png)
+
+
+`Owner Operations`
+
+
+![Owner Operations](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/ownerOperations.png)
+
+
+`Buyers List Owners profile`
+
+
+![Buyers List](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/buyersListOwner.png)
+
+
+`Distributor Operations`
+
+
+![Distributor operations](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/DistributorOperations.png)
+
+
+`Buy using Distributor profile`
+
+
+![Buy example](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/buyDistributor.png)
