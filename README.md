@@ -37,4 +37,4 @@ Database name = `warehouse`
 ## ScreenShots 
 
 `Main Login`
-![img](https://imgur.com/wqBpfJR)
+<img src="https://imgur.com/wqBpfJR" alt = "mainPage image">
