@@ -37,4 +37,4 @@ Database name = `warehouse`
 ## ScreenShots 
 
 `Main Login`
-<img src="https://imgur.com/wqBpfJR" alt = "mainPage image">
+![Main Page](https://github.com/hammertime1308/Warehouse-Management-System/blob/master/Images/mainPage.png)
